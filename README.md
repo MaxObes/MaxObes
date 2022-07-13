@@ -9,6 +9,5 @@ You can contact me through: <br/>
   📱 Txt/WhatsApp - +1(920)-851-8174 <br/>
 
 <!---
-MaxObes/MaxObes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+POST RESUME WHEN FINISHED maxoberbrunner.com
 --->
